@@ -7,7 +7,26 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
+#### [Nashira](/Nashira) theme
 
+![](/Asset/Nashira.jpg)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1933562/)
+#### [Alioth](/Alioth) theme
+
+![](/Asset/Alioth.jpg)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1910675/)
+#### [Polaris](/Polaris) theme
+
+![](/Asset/Polaris.jpg)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1907158/)
+#### [Megrez](/Megrez) theme
+
+![](/Asset/Megrez.jpg)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1914080/)
+#### [Canopus](/Canopus) theme
+
+![](/Asset/Canopus.jpg)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1930071/)
 ------------------------------------------------------------------------
 
 ## :cyclone: Tip Jar :
