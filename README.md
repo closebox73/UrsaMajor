@@ -7,13 +7,17 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
+#### [Tarf](/Tarf) theme
+
+![](/Asset/Tarf.jpg)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1941075/)
 #### [Alphard](/Alphard) theme
 
 ![](/Asset/Alphard.jpg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1937405/)
 #### [Sarin](/Sarin) theme
 
-![](/Asset/Sarin.jpg)
+![](/Asset/Sarin.jpeg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1925671/)
 #### [Nashira](/Nashira) theme
 
