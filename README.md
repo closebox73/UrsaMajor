@@ -7,6 +7,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
+#### [Muscida](/Muscida) theme
+
+![](/Asset/Muscida.jpg)
+- Only available at ko-fi Shop [Here](https://ko-fi.com/s/ecfe020cf5)
+#### [Nashira](/Nashira) theme
+
+![](/Asset/Nashira.jpg)
+- Only available at ko-fi Shop [Here](https://ko-fi.com/s/0cb38c27d3)
 #### [Tarf](/Tarf) theme
 
 ![](/Asset/Tarf.jpg)
@@ -19,10 +27,6 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 
 ![](/Asset/Sarin.jpeg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1925671/)
-#### [Nashira](/Nashira) theme
-
-![](/Asset/Nashira.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1933562/)
 #### [Alioth](/Alioth) theme
 
 ![](/Asset/Alioth.jpg)
