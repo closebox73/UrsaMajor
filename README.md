@@ -16,9 +16,14 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 ![](/Asset/Nashira.jpg)
 - Only available at ko-fi Shop [Here](https://ko-fi.com/s/0cb38c27d3)
 #### [Tarf](/Tarf) theme
+#### [Tarf Dark](/Tarf) theme
+
+![](/Asset/Tarf2.jpg)
+- Only available at Ko-fi Shop [Here](https://ko-fi.com/s/42c63e5ecd)
+#### [Tarf Light](/Tarf) theme
 
 ![](/Asset/Tarf.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1941075/)
+- Only available at Ko-fi Shop [Here](https://ko-fi.com/s/274c8725ae)
 #### [Alphard](/Alphard) theme
 
 ![](/Asset/Alphard.jpg)
